@@ -43,6 +43,11 @@ Manage seamless interactions between agents and external systems.
 #### RAGs
 Create Retrieval-Augmented Generations (RAGs) with minimal setup.
 
+#### Prompt modelling and management framework
+
+Define and design prompts within a object oriented framework. Keep track of prompts and responses in promptDB
+Improve LLM respones through clever prompt engineering frameworks
+
 ---
 
 ## QuickStart
@@ -51,6 +56,3 @@ Create Retrieval-Augmented Generations (RAGs) with minimal setup.
 pip install agentforge
 
 What do you think? We can make changes together! 🚀
-
-
-
