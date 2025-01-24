@@ -62,6 +62,14 @@ Agent_to_Tool Interactions
 Tool_to_Tool Interactions
 LLM_To_LLm Interactions
 
+#### Containerize agents and set infrastructure
+Dockerize
+Infra setup for RAGs and DBs (tf)
+
+####
+wrapper/API
+front end setup using streamlit setup
+
 ---
 
 ## QuickStart
