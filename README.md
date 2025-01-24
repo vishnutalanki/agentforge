@@ -48,6 +48,20 @@ Create Retrieval-Augmented Generations (RAGs) with minimal setup.
 Define and design prompts within a object oriented framework. Keep track of prompts and responses in promptDB
 Improve LLM respones through clever prompt engineering frameworks
 
+#### Define proper agent schema and validation
+
+Leverage integration with pydantic for proper agent schema validation
+
+#### Monitoring dashboard
+
+Metadata management for Agents, Tools, and Interactions
+Track behavior, performance, and debugging interactions.
+AgentMetadata
+ToolMetadata
+Agent_to_Tool Interactions
+Tool_to_Tool Interactions
+LLM_To_LLm Interactions
+
 ---
 
 ## QuickStart
