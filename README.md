@@ -1,5 +1,7 @@
 # AgentForge
+Agent first architecture
 Build faster and smarter AI agents now! Open-source AI agent framework.
+Try AgentStudio: agentstudio.ai
 
 ## What is AgentForge?
 
@@ -25,6 +27,7 @@ AgentForge is a fast and simple modular framework to design, test, and deploy AI
 - Continuously test and benchmark LLMs for specific tasks.
 - Dynamically select the best LLMs for each agent.
 - Maintain LLM-independent agents for adaptability.
+- example.modelbenchmarking.com (Model benchmarking for commercial tasks)
 
 #### Dynamic Agent Attributes
 - Define agent attributes on the fly for fine-grained behavior control.
@@ -69,6 +72,27 @@ Infra setup for RAGs and DBs (tf)
 ####
 wrapper/API
 front end setup using streamlit setup
+
+#### Safety mechanism and policies
+
+Set overall safety policies and agent specific safety policies to enforce compliance in inputs and outputs
+
+#### Context policy
+
+Set context policy for agents for application relevance
+AI Agents perform with context
+
+#### Embeddings
+
+#### Semantic layer
+
+#### Data Layer
+
+#### Wallet Agent
+
+#### Payment layer
+
+#### Crypto Agent
 
 ---
 
