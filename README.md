@@ -1,5 +1,5 @@
 # AgentForge
-Agent first architecture
+Agent first architecture - Agent as a base component for all workflows
 Build faster and smarter AI agents now! Open-source AI agent framework.
 Try AgentStudio: agentstudio.ai
 
@@ -66,8 +66,11 @@ Tool_to_Tool Interactions
 LLM_To_LLm Interactions
 
 #### Containerize agents and set infrastructure
-Dockerize
-Infra setup for RAGs and DBs (tf)
+Containerize agents - Agent as a container with tools and memory
+Infra setup for RAGs and DBs (tf) - multi cloud agent deployment without vendor lock-in
+
+#### Agent orchestration
+Orchestrate agents using K8s
 
 ####
 wrapper/API
@@ -93,6 +96,8 @@ AI Agents perform with context
 #### Payment layer
 
 #### Crypto Agent
+
+#### Build, hire and use agents with crypto
 
 ---
 

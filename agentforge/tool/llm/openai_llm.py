@@ -1,7 +1,7 @@
-from agentforge.tool.llm import LLM
+from agentforge.tool.llm import llm
 import openai
 
-class openai_llm(LLM):
+class openai_llm(llm):
     """Concrete implementation of LLM for OpenAI models."""
 
     def __init__(self, tool_id: str, api_key: str, model: str = "gpt-4"):
